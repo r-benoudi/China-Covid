@@ -1,0 +1,387 @@
+Beijing Municipality
+Tianjin Municipality
+Tangshan
+Cangzhou
+Zhangjiakou
+Baoding
+Handan
+Langfang
+Shijiazhuang
+Xingtai
+Qinhuangdao
+Hengshui
+Chengde
+Taiyuan
+Datong
+Yangquan
+Changzhi
+Jincheng
+Shuozhou
+Jinzhong
+Xinzhou
+Yuncheng
+Linfen
+Lüliang
+Xilingol League
+Baotou
+Hohhot
+Tongliao
+Chifeng
+Hulunbuir
+Bayannur
+Ordos
+Wuhai
+Ulanqab
+Hinggan League
+Alxa League
+Shenyang
+Dalian
+Anshan
+Benxi
+Dandong
+Jinzhou
+Yingkou
+Fuxin
+Liaoyang
+Tieling
+Chaoyang
+Panjin
+Huludao
+Fushun
+Changchun
+Siping
+Jilin
+Yanbian Korean Autonomous Prefecture
+Gongzhuling
+Songyuan
+Tonghua
+Liaoyuan
+Meihekou
+Baicheng
+Baishan
+Harbin
+Shuangyashan
+Suihua
+Jixi
+Qiqihar
+Daqing
+Qitaihe
+Jiamusi
+Heihe
+Mudanjiang
+Hegang
+Daxinganling Prefecture
+Yichun
+Shanghai Municipality
+Nanjing
+Wuxi
+Xuzhou
+Changzhou
+Suzhou
+Nantong
+Lianyungang
+Huai'an
+Yancheng
+Yangzhou
+Zhenjiang
+Taizhou
+Suqian
+Hangzhou
+Ningbo
+Wenzhou
+Huzhou
+Jiaxing
+Shaoxing
+Jinhua
+Quzhou
+Zhoushan
+Lishui
+Hefei
+Anqing
+Chizhou
+Ma'anshan
+Fuyang
+Bengbu
+Bozhou
+Huaibei
+Wuhu
+Tongling
+Huainan
+Chuzhou
+Lu'an
+Xuancheng
+Huangshan
+Fuzhou
+Xiamen
+Zhangzhou
+Quanzhou
+Sanming
+Putian
+Nanping
+Longyan
+Ningde
+Nanchang
+Xinyu
+Shangrao
+Jiujiang
+Ganzhou
+Pingxiang
+Ji'an
+Yingtan
+Jingdezhen
+Ganjiang new area
+Jinan
+Qingdao
+Zibo
+Zaozhuang
+Yantai
+Weifang
+Jining
+Tai'an
+Weihai
+Rizhao
+Linyi
+Dezhou
+Liaocheng
+Binzhou
+Heze
+Dongying
+Laiwu
+Xinyang
+Zhengzhou
+Nanyang
+Zhumadian
+Shangqiu
+Zhoukou
+Pingdingshan
+Xinxiang
+Anyang
+Xuchang
+Luohe
+Jiaozuo
+Luoyang
+Kaifeng
+Hebi
+Puyang
+Sanmenxia
+Jiyuan
+Wuhan
+Huangshi
+Shiyan
+Yichang
+Xiangyang
+Ezhou
+Jingmen
+Xiaogan
+Jingzhou
+Huanggang
+Xianning
+Suizhou
+Enshi Tujia and Miao Autonomous Prefecture
+Xiantao
+Qianjiang
+Tianmen
+Shennongjia Forestry District
+Changsha
+Hengyang
+Zhuzhou
+Xiangtan
+Shaoyang
+Yueyang
+Changde
+Zhangjiajie
+Yiyang
+Chenzhou
+Yongzhou
+Huaihua
+Loudi
+Xiangxi Tujia and Miao Autonomous Prefecture
+Shenzhen
+Guangzhou
+Zhuhai
+Foshan
+Dongguan
+Huizhou
+Zhongshan
+Shantou
+Zhanjiang
+Yangjiang
+Zhaoqing
+Meizhou
+Qingyuan
+Jieyang
+Shaoguan
+Shanwei
+Maoming
+Jiangmen
+Heyuan
+Chaozhou
+Yunfu
+Nanning
+Liuzhou
+Guilin
+Wuzhou
+Beihai
+Fangchenggang
+Qinzhou
+Guigang
+Yulin
+Baise
+Hezhou
+Hechi
+Laibin
+Chongzuo
+Haikou
+Sanya
+Danzhou
+Wenchang
+Qionghai City
+Wanning City
+Dongfang City
+Chengmai County
+Lingao County
+Changjiang Li Autonomous County
+Lingshui Li Autonomous County
+Ding'an County
+Baoting Li and Miao Autonomous County
+Ledong Li Autonomous County
+Qiongzhong Li and Miao Autonomous County
+Baisha Li Autonomous County
+Sansha
+Tunchang County
+Wuzhishan City
+Chongqing Municipality
+Chengdu
+Zigong
+Panzhihua
+Luzhou
+Deyang
+Mianyang
+Guangyuan
+Suining
+Neijiang
+Leshan
+Nanchong
+Yibin
+Guang'an
+Dazhou
+Bazhong
+Ya'an
+Meishan
+Ziyang
+Ngawa Tibetan and Qiang Autonomous Prefecture
+Garzê Tibetan Autonomous Prefecture
+Liangshan Yi Autonomous Prefecture
+Guiyang
+Zunyi
+Liupanshui
+Anshun
+Bijie
+Tongren
+Qiandongnan Miao and Dong Autonomous Prefecture
+Qiannan Buyi and Miao Autonomous Prefecture
+Qianxinan Buyi and Miao Autonomous Prefecture
+Kunming
+Zhaotong
+Xishuangbanna Dai Autonomous Prefecture
+Yuxi
+Qujing
+Dali Bai Autonomous Prefecture
+Baoshan
+Honghe Hani and Yi Autonomous Prefecture
+Lijiang
+Dehong Dai and Jingpo Autonomous Prefecture
+Pu'er
+Chuxiong Yi Autonomous Prefecture
+Wenshan Zhuang and Miao Autonomous Prefecture
+Lincang
+Dêqên Tibetan Autonomous Prefecture
+Nujiang Lisu Autonomous Prefecture
+Lhasa
+Lhoka
+Nagqu Prefecture
+Ngari Prefecture
+Nyingchi
+Qamdo
+Xigazê
+Xi'an
+Baoji
+Xianyang
+Tongchuan
+Weinan
+Yan'an
+Hanzhong
+Ankang
+Shangluo
+Yangling District
+Hancheng
+Linxia Hui Autonomous Prefecture
+Lanzhou
+Tianshui
+Dingxi
+Pingliang
+Qingyang
+Zhangye
+Gannan Tibetan Autonomous Prefecture
+Baiyin
+Jinchang
+Longnan
+Jiayuguan
+Jiuquan
+Wuwei
+Xining
+Haibei Tibetan Autonomous Prefecture
+Haidong
+Hainan Tibetan Autonomous Prefecture
+Haixi Mongolian Autonomous Prefecture
+Huangnan Tibetan Autonomous Prefecture
+Golog Tibetan Autonomous Prefecture
+Yushu Tibetan Autonomous Prefecture
+Yinchuan
+Shizuishan
+Wuzhong
+Guyuan
+Zhongwei
+Ningdong
+Ürümqi
+Turpan
+Changji Hui Autonomous Prefecture
+Bayingolin Mongol Autonomous Prefecture
+Ili Kazakh Autonomous Prefecture
+Aksu Prefecture
+4th Division of Xinjiang Production and Construction Corps
+Wujiaqu
+7th Division of Xinjiang Production and Construction Corps
+Shihezi
+9th Division of Xinjiang Production and Construction Corps
+12th Division of Xinjiang Production and Construction Corps
+Altay Prefecture
+Bortala Mongol Autonomous Prefecture
+Hami
+Hotan Prefecture
+Karamay
+Kashi Prefecture
+Kizilsu Kirgiz Autonomous Prefecture
+Tarbaĝatay Prefecture
+Taipei City
+New Taipei City
+Taoyuan City
+Taichung City
+Tainan City
+Kaohsiung City
+Keelung City
+Hsinchu City
+Chiayi City
+Hsinchu County
+Miaoli County
+Changhua County
+Nantou County
+Yunlin County
+Chiayi County
+Pingtung County
+Yilan County
+Taitung County
+Penghu County
+Hualien County
+Hong Kong Special Administrative Region
+Macao Special Administrative Region
